@@ -72,5 +72,5 @@ Interactive charts and tables for easy drill-down analysis, allowing users to ex
 
 ## 🏷️ Tags
 
-`PowerBI`, `HealthcareAnalytics`, `HospitalDashboard`, `PatientFlow`, `Data-Visualization`, `Business-Intelligence`
+`PowerBI`, `HealthcareAnalytics`, `HospitalDashboard`, `PatientFlow`, `Data-Visualization`, `Dashboard`,`Data`
 
